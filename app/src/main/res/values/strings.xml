@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OddsCalator</string>
+    <string name="select_card">Select card</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_odds">% win odds</string>
+    <string name="player_tie_odds">tie odds</string>
+    <string name="tie_odds">% tie odds</string>
+    <string name="title">OddsCalator</string>
+    <string name="oddscalate">OddsCalate</string>
+    <string name="speed_quiz">Speed quiz</string>
+    <string name="quiz">Cards and Quiz</string>
+    <string name="basic_quiz">Basic quiz</string>
+    <string name="advanced_quiz">Advanced quiz</string>
+    <string name="instructions">instructions</string>
+    <string name="cram_cards">Cram Cards</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_deck">Create new Cramdeck</string>
+    <string name="my_cram_decks">My Cramdecks</string>
+    <string name="recently_studied">Rcently Studied</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
